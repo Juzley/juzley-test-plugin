@@ -1,5 +1,5 @@
 {
-  "description": "Announces that tobin-test-plugin is active at session start",
+  "description": "Announces that juzley-test-plugin is active at session start",
   "hooks": {
     "SessionStart": [
       {

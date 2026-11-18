@@ -1,13 +1,13 @@
 {
-  "name": "tobin-test-plugin",
+  "name": "juzley-test-plugin",
   "version": "0.2.0",
   "description": "Test plugin with sample skills, a SessionStart hook, and an MCP server, for exercising plugin install and review flows",
   "author": {
     "name": "Tobin South",
     "url": "https://github.com/tobinsouth"
   },
-  "homepage": "https://github.com/tobinsouth/tobin-test-plugin",
-  "repository": "https://github.com/tobinsouth/tobin-test-plugin",
+  "homepage": "https://github.com/Juzley/juzley-test-plugin",
+  "repository": "https://github.com/Juzley/juzley-test-plugin",
   "privacyPolicyUrl": "https://australian-facts-mcp.tobin-south.workers.dev/privacy",
   "license": "MIT",
   "keywords": [

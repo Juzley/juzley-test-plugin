@@ -4,7 +4,7 @@ cat <<'JSON'
 {
   "hookSpecificOutput": {
     "hookEventName": "SessionStart",
-    "additionalContext": "tobin-test-plugin is active. Its SessionStart hook fired. Skills available: hello-world, repo-summary."
+    "additionalContext": "juzley-test-plugin is active. Its SessionStart hook fired. Skills available: hello-world, repo-summary."
   }
 }
 JSON

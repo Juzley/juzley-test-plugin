@@ -1,6 +1,6 @@
-<p align="center"><img src="logo.svg" width="96" alt="tobin-test-plugin logo"></p>
+<p align="center"><img src="logo.svg" width="96" alt="juzley-test-plugin logo"></p>
 
-# tobin-test-plugin
+# juzley-test-plugin
 
 A small Claude Code plugin for testing plugin install, review, and MCP flows.
 
@@ -19,8 +19,8 @@ A small Claude Code plugin for testing plugin install, review, and MCP flows.
 ## Install
 
 ```
-/plugin marketplace add tobinsouth/tobin-test-plugin
-/plugin install tobin-test-plugin@tobin-test-plugin
+/plugin marketplace add Juzley/juzley-test-plugin
+/plugin install juzley-test-plugin@juzley-test-plugin
 ```
 
 Then start a new session and ask "is the test plugin working?".
