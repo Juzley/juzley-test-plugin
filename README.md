@@ -32,7 +32,3 @@ Then start a new session and ask "is the test plugin working?".
 - `oauth.clientId` is the server's static client ID, and `oauth.callbackPort` pins the redirect to `http://localhost:33418/callback`.
 - No client secret ships in this repo. The server accepts this client ID without a secret only for loopback redirects, and still requires PKCE plus a user sign-in and approval on its consent page.
 - Run `/mcp`, pick `australian-facts`, and authenticate. A browser opens the sign-in page; after you approve, the tools `random_fact`, `search_facts` and `list_categories` become available.
-
-## License
-
-MIT
